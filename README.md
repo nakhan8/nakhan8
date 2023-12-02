@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nabeel
 - 👀 I’m interested in Software Development, Mobile Development, Front End and Data Visualization.
-- 🌱 I’m currently learning Python and scripting. 
+- 🌱 I’m currently working with Python, React.js and Node.js. 
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: https://www.linkedin.com/in/shieldnabeel/
 
